@@ -18,4 +18,4 @@ var e=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0});var n=
 },{"react":"1n8/"}],"Focm":[function(require,module,exports) {
 "use strict";var e=u(require("react")),r=u(require("react-dom")),t=u(require("./App"));function u(e){return e&&e.__esModule?e:{default:e}}r.default.render(e.default.createElement(t.default,null),document.getElementById("App"));
 },{"react":"1n8/","react-dom":"NKHc","./App":"0+DP"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.7fe5f101.map
+//# sourceMappingURL=https://eggsdesign.github.io/yolk-employee-overview/src.7fe5f101.map
