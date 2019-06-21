@@ -1,0 +1,23 @@
+{
+  "name": "employee-overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexander Vanvik",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.18.0"
+  },
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --public-url '.'",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@sanity/client": "^0.140.11",
+    "gh-pages": "^2.0.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
